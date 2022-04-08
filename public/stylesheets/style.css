@@ -1,0 +1,48 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cuadro{
+  background-color: #fff;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  height: auto;
+  width: 150px;
+  
+}
+
+ul{
+  list-style: none;
+}
+
+#a-home{
+  color: black;
+}
+#a-rojo{
+  color: red;
+}
+#a-azul{
+  color: blue;
+}
+#a-verde{
+  color: green;
+}
+
+#color-rojo{
+  background-color: red;
+}
+
+#color-verde{
+  background-color: green;
+}
+
+#color-azul{
+  background-color: blue;
+}
